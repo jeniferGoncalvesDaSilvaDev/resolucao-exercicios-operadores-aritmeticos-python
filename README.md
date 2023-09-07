@@ -1,0 +1,1 @@
+# resolucao-exercicios-operadores-aritmeticos-python
